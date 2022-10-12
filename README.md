@@ -84,6 +84,7 @@ Audio Plugins
 | [QtVST](https://github.com/mbrucher/QtVST) | VST plugins with a Qt interface | Effect | Qt |
 | [Regrader](https://github.com/igorski/regrader) | Degenerative delay | Effect | VSTGUI |
 | [Roth-AIR](https://github.com/danielrothmann/Roth-AIR) | Mixing tool for easily adding airy, crispy presence to audio | Effect | JUCE |
+| [RuneWerk 3 VST](https://gitlab.com/chaosdragonvstplugins/runewerk3) | Simple oldschool-sounding pulse, PWM & noise wave synthesizer in C++ | Misc |   |
 | [ScorchCrafter Guitar FX](https://sourceforge.net/projects/scorchcrafter/) | Audio DSP FX and plugins, mostly for guitar (amp sim) and other FX | Effect | VSTGUI |
 | [Schrammel OJD](https://github.com/JanosGit/Schrammel_OJD) | Model of a modern classic guitar distortion pedal | Effect | JUCE |
 | [sfizz](https://github.com/sfztools/sfizz) | SFZ parser library and instrument plugins | Instrument | VSTGUI |
